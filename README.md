@@ -3,7 +3,7 @@
 Pronouns: he/him/his
   
   ### Education:
-  - DePaul University: Computer Science + Animation BS
+  - DePaul University: Bachelor's of Science in Computer Science + Animation
 
 ### Additional Information:
 - Bilingual: English (fluent), Spanish (intermediate)
