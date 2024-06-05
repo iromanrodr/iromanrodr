@@ -1,16 +1,16 @@
-## Hi there 👋
+### Jhonen Roman-Rodriguez 
 
-<!--
-**iromanrodr/iromanrodr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Pronouns: he/him/his
+  
+  ### Education:
+  - DePaul University: Computer Science + Animation BS
 
-Here are some ideas to get you started:
+### Additional Information:
+- Bilingual: English (fluent), Spanish (intermediate)
+- Adobe Illustration
+- Adobe Photoshop 
+- Adobe Premiere Pro and After Effects 
+- Clip Studio Paint
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
