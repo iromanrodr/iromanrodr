@@ -7,10 +7,6 @@ Pronouns: he/him/his
 
 ### Additional Information:
 - Bilingual: English (fluent), Spanish (intermediate)
-- Adobe Illustration
-- Adobe Photoshop 
-- Adobe Premiere Pro and After Effects 
-- Clip Studio Paint
 
 
 
