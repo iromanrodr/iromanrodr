@@ -6,7 +6,7 @@ Pronouns: he/him/his
   - DePaul University: Bachelor's of Science in Computer Science + Animation
 
 ### Additional Information:
-- Bilingual: English (fluent), Spanish (intermediate)
+- Bilingual: English (fluent), Spanish (intermediate working proficiency)
 
 
 
